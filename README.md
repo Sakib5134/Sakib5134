@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sakib5134
+- 👋 Hi, I’m Mehedi Hasan Sakib
 -  ## About Me
 🌱 I'm a passionate learner diving into the world of data science and AI.  
 🎯 My goal is to build impactful machine learning models and contribute to open-source projects.
